@@ -1,0 +1,30 @@
+*{
+    margin:15;
+    padding: 10;
+    background-color: lavender;
+    color:black;
+}
+
+.logo{
+    color : rebeccapurple;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
+nav a: hover{
+    color :blue;
+}
+.hero-text p{
+    color : black;
+}
+footer{
+    text-align: : center;
+    padding:20px 0px;
+    margin-top:300px;
+}
+.btn{
+    background-color: #fff;
+    color:black;
+}
